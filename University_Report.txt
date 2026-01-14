@@ -1,0 +1,32 @@
+==========================================
+   UNIVERSITY DEPARTMENT REPORT
+==========================================
+Department: Computer Science
+Code:       CS
+Generated:  Wed Jan 14 18:20:40 PKT 2026
+------------------------------------------
+
+--- REGISTERED STUDENTS (6) ---
+ID: S101       | Name: Minhaj Ul Siraj      | CGPA: 3.50
+ID: S102       | Name: Hamza Shahid         | CGPA: 3.20
+ID: S103       | Name: Husnain Abbas        | CGPA: 3.90
+ID: S104       | Name: Abdul Rehman         | CGPA: 3.00
+ID: S105       | Name: Abdul Moiz           | CGPA: 2.50
+ID: TA500      | Name: Rachel Zane          | CGPA: 3.80
+
+------------------------------------------
+--- COURSE CATALOG (5) ---
+Code: CS101 | Name: Intro to OOP
+Code: CS102 | Name: Intro to Bioinformatics
+Code: CS103 | Name: Intro to Programming
+Code: CS104 | Name: Discreter Structures
+Code: CS105 | Name: Technical and Business Writing
+
+------------------------------------------
+--- FACULTY LIST (5) ---
+Name: Dr. Asfar | Dept: CS | Salary: $50000.0
+Name: Dr. Sikandar | Dept: CS | Salary: $55000.0
+Name: Dr. Irfan | Dept: CS | Salary: $40000.0
+Name: Dr. Aslam | Dept: CS | Salary: $50000.0
+Name: Dr. Akram | Dept: CS | Salary: $60000.0
+==========================================
